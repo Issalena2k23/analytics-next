@@ -1,0 +1,32 @@
+{
+	"info": {
+		"_postman_id": "c7837ce0-6073-41ae-933f-28edeb109a6e",
+		"name": "New Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_uid": "24978048-c7837ce0-6073-41ae-933f-28edeb109a6e"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"id": "4f399111-9bb4-430d-811d-ef208427098e",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ".changeset/tough-feet-laugh.md",
+					"host": [
+						"",
+						"changeset"
+					],
+					"path": [
+						"tough-feet-laugh.md"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
